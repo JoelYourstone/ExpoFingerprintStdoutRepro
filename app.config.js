@@ -1,3 +1,5 @@
+console.log("Modify stdout");
+
 export default {
   expo: {
     name: "ExpoFingerprintStdoutRepro",
